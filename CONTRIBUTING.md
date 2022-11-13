@@ -58,7 +58,7 @@ Cuando este creando un reporte, tenga en cuenta que debe contestar estas 5 pregu
 1. Que es lo que sucedio?
 
 
-## Como sugerir una nueva fuincionalidad o mejora
+## Como sugerir una nueva funcionalidad o mejora
 
 Si te encuentras en la situacion de que necesitas o deseas una nueva funcionalidad que no existe en RobotScript, seguramente no estas solo, debe haber mas usuarios que puedan pensar igual lo importante es transmitirlo.
 
